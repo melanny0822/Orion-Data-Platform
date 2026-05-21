@@ -1,0 +1,15 @@
+{
+	"name": "adf-dataco-extraccion",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "806cce3c-bbe5-481b-8875-168bd1244b25",
+		"tenantId": "32b00f32-da6b-49e5-8d67-4ae2ceec8998"
+	}
+}
