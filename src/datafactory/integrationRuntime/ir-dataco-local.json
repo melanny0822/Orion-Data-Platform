@@ -1,0 +1,6 @@
+{
+	"name": "ir-dataco-local",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
