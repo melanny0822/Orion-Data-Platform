@@ -4,7 +4,7 @@
 - Melanny Arianna Cordoba Bermudez Cc 1000899222
 - Jerónimo Londoño Madrid Cc 1000412774
 - Luis Miguel Carrillo García Cc 1017239239
-- Nombre Apellido
+- David Santiago Giraldo Suescun Cc 1000871645
 
 ## Curso
 Computación en la Nube — Semestre 2026-1  
